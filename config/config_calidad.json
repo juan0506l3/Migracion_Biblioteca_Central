@@ -1,0 +1,90 @@
+{
+  "nombre_proyecto": "Framework de Calidad - Biblioteca UNISABANETA",
+  "version": "2.0",
+  "reglas_validacion": {
+
+    "Biblioteca_Data": [
+      {
+        "columna": "fecha_publicacion",
+        "tipo_validacion": "formato_fecha",
+        "formato": "YYYY-MM-DD",
+        "contexto": "legacy",
+        "accion": "log_error",
+        "mensaje": "La fecha no tiene formato válido"
+      },
+      {
+        "columna": "categoria_y_descripcion",
+        "tipo_validacion": "campo_combinado",
+        "separador": "/",
+        "contexto": "legacy",
+        "accion": "log_warning",
+        "mensaje": "Campo combinado detectado (viola 1FN)"
+      }
+    ],
+
+    "Prestamos_Crudos": [
+      {
+        "columna": "correo_usuario",
+        "tipo_validacion": "regex",
+        "patron": "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$",
+        "contexto": "legacy",
+        "accion": "log_error",
+        "mensaje": "Correo electrónico inválido"
+      },
+      {
+        "columna": "libros_prestados",
+        "tipo_validacion": "multivalor",
+        "separador": ",",
+        "contexto": "legacy",
+        "accion": "log_warning",
+        "mensaje": "Campo multivalor detectado"
+      }
+    ],
+
+    "Reseñas_Usuarios": [
+      {
+        "columna": "calificacion",
+        "tipo_validacion": "rango_numerico",
+        "min": 1,
+        "max": 5,
+        "contexto": "legacy",
+        "accion": "log_error",
+        "mensaje": "Calificación fuera de rango"
+      }
+    ],
+
+    "Libros": [
+      {
+        "columna": "fecha_publicacion",
+        "tipo_validacion": "formato_fecha",
+        "contexto": "normalizada",
+        "accion": "log_error",
+        "mensaje": "Fecha inválida en normalizada"
+      }
+    ],
+
+    "Usuarios": [
+      {
+        "columna": "correo",
+        "tipo_validacion": "regex",
+        "patron": "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$",
+        "contexto": "normalizada",
+        "accion": "log_error",
+        "mensaje": "Correo inválido en normalizada"
+      }
+    ],
+
+    "Reseñas": [
+      {
+        "columna": "calificacion",
+        "tipo_validacion": "rango_numerico",
+        "min": 1,
+        "max": 5,
+        "contexto": "normalizada",
+        "accion": "log_error",
+        "mensaje": "Calificación fuera de rango en normalizada"
+      }
+    ]
+
+  }
+}

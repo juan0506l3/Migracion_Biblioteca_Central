@@ -1,0 +1,8 @@
+[VALIDACION] Tabla: Biblioteca_Data | Columna: fecha_publicacion | Tipo: formato_fecha | Errores: 0
+[VALIDACION] Tabla: Biblioteca_Data | Columna: categoria_y_descripcion | Tipo: campo_combinado | Errores: 250
+[VALIDACION] Tabla: Prestamos_Crudos | Columna: correo_usuario | Tipo: regex | Errores: 0
+[VALIDACION] Tabla: Prestamos_Crudos | Columna: libros_prestados | Tipo: multivalor | Errores: 250
+[VALIDACION] Tabla: Reseñas_Usuarios | Columna: calificacion | Tipo: rango_numerico | Errores: 0
+[VALIDACION] Tabla: Libros | Columna: fecha_publicacion | Tipo: formato_fecha | Errores: 0
+[VALIDACION] Tabla: Usuarios | Columna: correo | Tipo: regex | Errores: 0
+[VALIDACION] Tabla: Reseñas | Columna: calificacion | Tipo: rango_numerico | Errores: 0

@@ -1,0 +1,93 @@
+{
+  "Libros": {
+    "collection": "libros",
+    "fields": {
+      "id_libro": "_id",
+      "titulo": "titulo",
+      "fecha_publicacion": "fecha"
+    },
+    "embebidos": {
+      "editorial": {
+        "source": "Editoriales",
+        "local_key": "id_editorial",
+        "fields": {
+          "nombre": "nombre"
+        }
+      },
+      "autores": {
+        "source": "Autores",
+        "via": "Libro_Autor",
+        "fields": {
+          "nombre": "nombre"
+        }
+      },
+      "categorias": {
+        "source": "Categorias",
+        "via": "Libro_Categoria",
+        "fields": {
+          "nombre": "nombre",
+          "descripcion": "descripcion"
+        }
+      }
+    }
+  },
+
+  "Usuarios": {
+    "collection": "usuarios",
+    "fields": {
+      "id_usuario": "_id",
+      "nombre": "nombre",
+      "correo": "correo"
+    }
+  },
+
+  "Prestamos": {
+    "collection": "prestamos",
+    "fields": {
+      "id_prestamo": "_id",
+      "fecha_salida": "fecha",
+      "estado": "estado"
+    },
+    "embebidos": {
+      "usuario": {
+        "source": "Usuarios",
+        "local_key": "id_usuario",
+        "fields": {
+          "nombre": "nombre",
+          "correo": "correo"
+        }
+      },
+      "libros": {
+        "source": "Libros",
+        "via": "Prestamo_Libro",
+        "fields": {
+          "titulo": "titulo"
+        }
+      }
+    }
+  },
+
+  "Inventario": {
+    "collection": "inventario",
+    "embebidos": {
+      "sede": {
+        "source": "Sedes",
+        "local_key": "id_sede",
+        "fields": {
+          "nombre": "nombre",
+          "ubicacion": "ubicacion"
+        }
+      },
+      "libro": {
+        "source": "Libros",
+        "local_key": "id_libro",
+        "fields": {
+          "titulo": "titulo"
+        }
+      }
+    },
+    "fields": {
+      "cantidad": "stock"
+    }
+  }
+}
