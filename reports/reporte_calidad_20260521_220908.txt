@@ -1,0 +1,43 @@
+============================================================
+   REPORTE DE CALIDAD - GESTIÓN BIBLIOTECA
+   Generado: 2026-05-21 22:09:08
+============================================================
+
+RESUMEN DE LIMPIEZA POR TABLA
+----------------------------------------
+
+  ► Biblioteca_Data:
+      filas_originales: 1050
+      filas_limpias: 929
+      eliminadas: 121
+
+  ► Prestamos_Crudos:
+      filas_originales: 530
+      filas_limpias: 1240
+      correos_invalidos: 84
+
+  ► Inventario_Sedes:
+      filas_originales: 340
+      filas_limpias: 156
+      eliminadas: 184
+
+  ► Reseñas_Usuarios:
+      filas_originales: 660
+      filas_limpias: 85
+      eliminadas: 575
+
+----------------------------------------
+  Total errores de validación detectados: 705
+
+PROCESOS APLICADOS
+----------------------------------------
+  [✓] Eliminación de duplicados exactos
+  [✓] Limpieza de ruido en texto (espacios, tabs, mayúsculas)
+  [✓] Normalización de fechas (múltiples formatos → ISO 8601)
+  [✓] Conversión de cantidades textuales a numéricas
+  [✓] Normalización de calificaciones (rango 1-5)
+  [✓] Validación de correos electrónicos (regex)
+  [✓] Normalización 1FN: expansión de libros_prestados
+  [✓] Fuzzy Matching (umbral 85%)
+  [✓] Data Masking: correos enmascarados con SHA-256
+============================================================

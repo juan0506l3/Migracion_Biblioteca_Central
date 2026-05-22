@@ -1,0 +1,706 @@
+﻿tabla,fila,campo,valor,error
+Reseñas_Usuarios,1,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,1,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,5,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,6,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,7,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,8,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,12,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,13,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,14,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,15,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,16,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,18,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,20,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,25,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,27,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,29,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,30,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,30,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,32,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,33,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,34,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,36,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,38,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,38,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,39,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,40,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,41,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,42,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,44,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,45,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,45,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,46,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,49,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,50,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,51,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,53,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,54,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,57,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,59,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,61,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,61,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,62,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,63,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,64,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,65,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,68,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,69,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,72,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,73,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,74,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,75,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,75,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,76,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,77,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,78,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,79,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,79,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,80,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,82,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,83,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,85,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,85,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,86,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,87,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,88,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,88,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,90,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,91,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,94,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,96,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,97,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,98,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,100,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,102,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,102,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,108,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,109,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,110,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,111,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,111,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,112,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,113,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,115,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,117,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,119,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,123,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,127,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,128,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,129,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,129,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,133,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,134,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,135,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,135,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,137,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,138,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,138,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,141,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,142,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,143,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,143,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,144,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,148,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,149,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,149,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,150,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,151,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,153,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,154,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,155,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,156,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,157,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,158,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,160,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,160,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,165,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,167,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,168,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,170,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,172,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,173,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,177,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,180,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,181,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,183,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,184,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,186,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,186,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,187,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,187,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,188,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,188,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,191,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,192,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,193,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,196,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,197,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,199,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,200,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,202,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,207,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,208,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,209,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,211,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,216,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,216,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,218,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,219,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,227,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,228,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,228,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,229,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,231,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,234,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,235,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,238,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,239,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,239,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,240,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,243,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,247,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,248,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,249,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,253,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,253,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,254,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,257,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,257,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,260,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,262,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,262,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,267,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,268,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,269,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,271,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,272,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,273,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,277,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,278,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,279,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,279,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,280,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,282,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,286,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,286,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,289,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,291,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,293,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,295,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,295,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,296,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,296,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,297,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,299,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,300,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,301,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,302,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,303,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,305,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,306,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,306,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,309,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,310,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,312,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,313,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,313,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,315,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,315,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,316,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,316,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,318,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,319,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,319,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,320,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,321,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,322,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,324,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,325,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,326,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,326,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,327,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,329,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,330,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,331,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,331,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,332,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,333,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,334,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,338,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,340,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,341,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,342,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,343,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,343,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,344,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,344,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,346,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,347,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,347,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,348,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,349,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,349,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,350,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,351,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,352,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,354,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,355,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,362,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,362,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,364,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,365,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,365,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,367,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,367,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,369,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,370,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,370,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,374,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,374,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,375,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,375,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,377,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,382,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,383,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,384,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,385,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,385,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,386,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,386,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,388,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,393,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,394,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,395,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,397,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,398,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,402,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,404,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,406,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,407,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,410,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,412,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,412,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,413,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,413,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,414,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,415,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,417,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,419,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,420,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,421,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,422,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,423,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,424,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,425,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,426,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,429,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,430,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,431,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,432,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,432,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,433,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,436,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,437,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,437,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,438,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,439,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,439,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,441,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,443,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,444,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,444,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,445,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,445,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,447,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,450,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,453,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,453,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,454,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,455,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,456,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,458,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,458,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,459,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,461,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,463,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,464,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,465,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,465,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,466,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,467,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,469,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,476,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,477,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,479,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,480,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,482,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,483,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,485,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,487,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,487,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,488,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,489,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,491,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,491,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,492,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,493,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,495,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,495,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,496,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,499,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,499,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,500,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,506,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,507,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,508,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,510,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,512,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,513,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,515,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,519,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,520,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,521,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,524,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,525,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,528,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,530,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,532,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,533,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,535,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,536,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,541,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,542,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,543,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,544,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,544,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,545,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,547,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,552,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,553,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,554,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,557,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,558,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,559,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,561,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,562,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,562,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,566,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,571,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,572,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,575,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,576,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,577,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,578,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,580,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,580,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,581,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,584,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,585,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,588,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,588,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,589,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,592,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,593,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,594,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,595,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,597,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,598,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,600,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,600,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,602,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,603,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,605,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,608,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,609,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,613,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,616,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,617,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,617,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,618,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,618,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,619,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,620,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,622,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,622,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,623,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,625,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,627,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,630,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,631,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,632,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,633,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,633,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,634,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,635,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,635,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,637,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,641,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,642,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,643,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,643,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,644,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,645,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,646,calificacion,2-5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,646,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,647,comentario,,Valor prohibido o nulo en campo 'comentario'
+Reseñas_Usuarios,649,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,650,calificacion,,Calificación no válida o fuera del rango [1-5]
+Reseñas_Usuarios,655,calificacion,10/5,Calificación no válida o fuera del rango [1-5]
+Prestamos_Crudos,3,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,9,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,14,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,27,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,41,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,42,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,66,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,68,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,72,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,74,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,76,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,80,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,82,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,85,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,87,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,88,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,102,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,104,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,117,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,120,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,129,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,130,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,136,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,153,correo_usuario,m.garcia_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,154,correo_usuario,m.garcia_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,157,correo_usuario,m.garcia_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,161,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,164,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,173,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,175,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,176,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,180,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,186,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,191,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,216,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,223,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,227,correo_usuario,m.garcia_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,232,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,236,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,237,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,239,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,249,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,250,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,253,correo_usuario,m.garcia_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,255,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,256,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,259,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,260,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,279,correo_usuario,m.garcia_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,280,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,281,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,283,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,284,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,297,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,305,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,322,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,328,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,329,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,335,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,343,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,348,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,350,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,352,correo_usuario,m.garcia_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,354,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,363,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,367,correo_usuario,m.garcia_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,369,correo_usuario,m.garcia_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,371,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,372,correo_usuario,m.garcia_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,376,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,392,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,406,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,408,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,410,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,412,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,417,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,421,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,428,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,437,correo_usuario,m.garcia_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,442,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,466,correo_usuario,ana.mar_libros_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,469,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,482,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,496,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,504,correo_usuario,juan.perez_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,508,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,513,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,516,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,520,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,523,correo_usuario,clopez_88_at_email.com,Formato inválido para campo 'correo_usuario'
+Prestamos_Crudos,525,correo_usuario,,Formato inválido para campo 'correo_usuario'
+Inventario_Sedes,0,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,3,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,5,cantidad_total,-8,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,6,cantidad_total,-6,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,10,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,11,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,15,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,16,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,18,cantidad_total,-10,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,25,cantidad_total,-2,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,29,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,32,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,34,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,36,cantidad_total,-9,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,37,cantidad_total,-2,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,38,cantidad_total,-3,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,39,cantidad_total,-2,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,40,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,41,cantidad_total,-8,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,43,cantidad_total,-4,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,48,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,49,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,52,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,54,cantidad_total,-2,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,55,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,57,cantidad_total,-8,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,59,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,60,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,63,cantidad_total,-10,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,65,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,67,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,70,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,71,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,74,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,75,cantidad_total,-7,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,78,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,79,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,80,cantidad_total,-2,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,83,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,84,cantidad_total,-8,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,85,cantidad_total,-10,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,89,cantidad_total,-6,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,90,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,91,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,93,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,94,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,95,cantidad_total,-4,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,99,cantidad_total,-2,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,100,cantidad_total,-5,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,101,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,102,cantidad_total,-6,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,103,cantidad_total,-7,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,107,cantidad_total,-6,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,108,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,113,cantidad_total,-8,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,114,cantidad_total,-9,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,115,cantidad_total,-3,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,116,cantidad_total,-10,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,117,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,120,cantidad_total,-7,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,124,cantidad_total,-8,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,125,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,126,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,129,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,135,cantidad_total,-9,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,137,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,138,cantidad_total,-7,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,140,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,142,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,146,cantidad_total,-9,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,147,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,153,cantidad_total,-7,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,154,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,157,cantidad_total,-10,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,158,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,159,cantidad_total,-1,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,163,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,164,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,165,cantidad_total,-1,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,166,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,169,cantidad_total,-9,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,170,cantidad_total,-5,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,173,cantidad_total,-6,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,174,cantidad_total,-6,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,176,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,177,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,178,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,179,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,181,cantidad_total,-10,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,188,cantidad_total,-2,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,190,cantidad_total,-4,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,191,cantidad_total,-1,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,196,cantidad_total,-7,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,203,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,204,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,205,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,207,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,208,cantidad_total,-8,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,212,cantidad_total,-9,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,214,cantidad_total,-2,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,215,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,216,cantidad_total,-6,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,217,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,219,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,225,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,227,cantidad_total,-10,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,229,cantidad_total,-4,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,230,cantidad_total,-9,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,231,cantidad_total,-7,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,235,cantidad_total,-8,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,238,cantidad_total,-4,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,242,cantidad_total,-5,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,243,cantidad_total,-8,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,244,cantidad_total,-3,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,245,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,246,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,247,cantidad_total,-1,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,250,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,251,cantidad_total,-7,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,254,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,257,cantidad_total,-6,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,260,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,264,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,265,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,269,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,271,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,275,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,276,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,277,cantidad_total,-9,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,278,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,279,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,281,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,282,cantidad_total,-4,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,283,cantidad_total,-7,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,284,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,285,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,286,cantidad_total,-1,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,287,cantidad_total,-2,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,288,cantidad_total,-8,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,289,cantidad_total,-3,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,291,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,292,cantidad_total,-3,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,293,cantidad_total,-2,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,297,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,301,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,302,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,305,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,306,cantidad_total,-8,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,309,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,310,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,312,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,315,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,316,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,317,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,318,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,319,cantidad_total,-9,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,320,cantidad_total,-9,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,322,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,325,cantidad_total,-8,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,328,cantidad_total,-7,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,331,cantidad_total,-3,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,332,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,335,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,336,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,338,cantidad_total,,"Cantidad inválida, negativa o no numérica"
+Inventario_Sedes,339,cantidad_total,-10,"Cantidad inválida, negativa o no numérica"

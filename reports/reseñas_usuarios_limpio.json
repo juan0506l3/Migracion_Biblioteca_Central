@@ -1,0 +1,512 @@
+[
+  {
+    "usuario_id": "130",
+    "libro_titulo": "Ficciones - Ed 970",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "556",
+    "libro_titulo": "Rayuela - Ed 390",
+    "comentario": "Excelente",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "523",
+    "libro_titulo": "El Amor En Los Tiempos Del Cólera - Ed 937",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "300",
+    "libro_titulo": "La Ciudad Y Los Perros - Ed 762",
+    "comentario": "",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "846",
+    "libro_titulo": "Crónica De Una Muerte Anunciada - Ed 760",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "343",
+    "libro_titulo": "Ficciones - Ed 601",
+    "comentario": "Excelente",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "151",
+    "libro_titulo": "Rayuela - Ed 339",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "504",
+    "libro_titulo": "El Amor En Los Tiempos Del Cólera - Ed 741",
+    "comentario": "Bueno",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "125",
+    "libro_titulo": "La Casa De Los Espíritus - Ed 153",
+    "comentario": "Malo",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "317",
+    "libro_titulo": "El Amor En Los Tiempos Del Cólera - Ed 154",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "878",
+    "libro_titulo": "La Casa De Los Espíritus - Ed 38",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "778",
+    "libro_titulo": "El Aleph - Ed 661",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "912",
+    "libro_titulo": "Cien Años De Soledad - Ed 298",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "446",
+    "libro_titulo": "La Casa De Los Espíritus - Ed 363",
+    "comentario": "Malo",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "927",
+    "libro_titulo": "La Casa De Los Espíritus - Ed 276",
+    "comentario": "Excelente",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "252",
+    "libro_titulo": "Don Quijote De La Mancha - Ed 884",
+    "comentario": "Malo",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "483",
+    "libro_titulo": "Cien Años De Soledad - Ed 197",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "866",
+    "libro_titulo": "Ficciones - Ed 761",
+    "comentario": "Bueno",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "324",
+    "libro_titulo": "Ficciones - Ed 5",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "938",
+    "libro_titulo": "Rayuela - Ed 871",
+    "comentario": "Malo",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "126",
+    "libro_titulo": "El Amor En Los Tiempos Del Cólera - Ed 912",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "941",
+    "libro_titulo": "Ficciones - Ed 427",
+    "comentario": "Excelente",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "235",
+    "libro_titulo": "Don Quijote De La Mancha - Ed 140",
+    "comentario": "Malo",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "565",
+    "libro_titulo": "Pedro Páramo - Ed 496",
+    "comentario": "Malo",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "688",
+    "libro_titulo": "La Casa De Los Espíritus - Ed 497",
+    "comentario": "Bueno",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "480",
+    "libro_titulo": "La Casa De Los Espíritus - Ed 928",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "475",
+    "libro_titulo": "El Aleph - Ed 353",
+    "comentario": "Malo",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "776",
+    "libro_titulo": "El Aleph - Ed 500",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "251",
+    "libro_titulo": "Don Quijote De La Mancha - Ed 845",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "434",
+    "libro_titulo": "La Ciudad Y Los Perros - Ed 593",
+    "comentario": "Bueno",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "970",
+    "libro_titulo": "Pedro Páramo - Ed 841",
+    "comentario": "Excelente",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "472",
+    "libro_titulo": "El Amor En Los Tiempos Del Cólera - Ed 707",
+    "comentario": "Excelente",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "227",
+    "libro_titulo": "El Aleph - Ed 488",
+    "comentario": "Excelente",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "312",
+    "libro_titulo": "El Aleph - Ed 706",
+    "comentario": "Bueno",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "652",
+    "libro_titulo": "Crónica De Una Muerte Anunciada - Ed 899",
+    "comentario": "Bueno",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "710",
+    "libro_titulo": "Cien Años De Soledad - Ed 732",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "550",
+    "libro_titulo": "El Amor En Los Tiempos Del Cólera - Ed 879",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "322",
+    "libro_titulo": "Crónica De Una Muerte Anunciada - Ed 36",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "244",
+    "libro_titulo": "El Aleph - Ed 824",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "322",
+    "libro_titulo": "Crónica De Una Muerte Anunciada - Ed 805",
+    "comentario": "Malo",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "990",
+    "libro_titulo": "Cien Años De Soledad - Ed 239",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "496",
+    "libro_titulo": "La Ciudad Y Los Perros - Ed 26",
+    "comentario": "",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "866",
+    "libro_titulo": "Crónica De Una Muerte Anunciada - Ed 959",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "258",
+    "libro_titulo": "Cien Años De Soledad - Ed 597",
+    "comentario": "Bueno",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "212",
+    "libro_titulo": "Rayuela - Ed 909",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "870",
+    "libro_titulo": "Cien Años De Soledad - Ed 498",
+    "comentario": "",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "448",
+    "libro_titulo": "Pedro Páramo - Ed 262",
+    "comentario": "Bueno",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "117",
+    "libro_titulo": "La Casa De Los Espíritus - Ed 51",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "321",
+    "libro_titulo": "El Aleph - Ed 59",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "867",
+    "libro_titulo": "La Casa De Los Espíritus - Ed 999",
+    "comentario": "Bueno",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "778",
+    "libro_titulo": "Pedro Páramo - Ed 712",
+    "comentario": "Excelente",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "658",
+    "libro_titulo": "Rayuela - Ed 454",
+    "comentario": "Excelente",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "499",
+    "libro_titulo": "La Casa De Los Espíritus - Ed 53",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "939",
+    "libro_titulo": "La Ciudad Y Los Perros - Ed 321",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "493",
+    "libro_titulo": "Cien Años De Soledad - Ed 717",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "333",
+    "libro_titulo": "Don Quijote De La Mancha - Ed 63",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "625",
+    "libro_titulo": "Ficciones - Ed 129",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "247",
+    "libro_titulo": "La Casa De Los Espíritus - Ed 115",
+    "comentario": "Malo",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "866",
+    "libro_titulo": "El Aleph - Ed 998",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "937",
+    "libro_titulo": "Cien Años De Soledad - Ed 714",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "873",
+    "libro_titulo": "El Amor En Los Tiempos Del Cólera - Ed 658",
+    "comentario": "Excelente",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "782",
+    "libro_titulo": "Cien Años De Soledad - Ed 430",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "480",
+    "libro_titulo": "Ficciones - Ed 503",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "524",
+    "libro_titulo": "La Ciudad Y Los Perros - Ed 323",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "178",
+    "libro_titulo": "Rayuela - Ed 909",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "144",
+    "libro_titulo": "Crónica De Una Muerte Anunciada - Ed 911",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "999",
+    "libro_titulo": "El Amor En Los Tiempos Del Cólera - Ed 663",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "687",
+    "libro_titulo": "El Amor En Los Tiempos Del Cólera - Ed 587",
+    "comentario": "Excelente",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "226",
+    "libro_titulo": "La Casa De Los Espíritus - Ed 332",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "388",
+    "libro_titulo": "El Aleph - Ed 461",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "797",
+    "libro_titulo": "Pedro Páramo - Ed 827",
+    "comentario": "Excelente",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "819",
+    "libro_titulo": "Rayuela - Ed 961",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "495",
+    "libro_titulo": "La Ciudad Y Los Perros - Ed 371",
+    "comentario": "Excelente",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "395",
+    "libro_titulo": "Don Quijote De La Mancha - Ed 604",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "510",
+    "libro_titulo": "El Aleph - Ed 975",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "611",
+    "libro_titulo": "Rayuela - Ed 267",
+    "comentario": "Excelente",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "208",
+    "libro_titulo": "El Aleph - Ed 799",
+    "comentario": "Bueno",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "499",
+    "libro_titulo": "Ficciones - Ed 505",
+    "comentario": "Bueno",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "972",
+    "libro_titulo": "La Casa De Los Espíritus - Ed 971",
+    "comentario": "Excelente",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "191",
+    "libro_titulo": "Crónica De Una Muerte Anunciada - Ed 709",
+    "comentario": "Malo",
+    "calificacion": 4.0
+  },
+  {
+    "usuario_id": "962",
+    "libro_titulo": "El Amor En Los Tiempos Del Cólera - Ed 462",
+    "comentario": "Excelente",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "321",
+    "libro_titulo": "Don Quijote De La Mancha - Ed 884",
+    "comentario": "Excelente",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "414",
+    "libro_titulo": "La Ciudad Y Los Perros - Ed 855",
+    "comentario": "Malo",
+    "calificacion": 5.0
+  },
+  {
+    "usuario_id": "418",
+    "libro_titulo": "Ficciones - Ed 208",
+    "comentario": "Malo",
+    "calificacion": 3.0
+  },
+  {
+    "usuario_id": "846",
+    "libro_titulo": "El Amor En Los Tiempos Del Cólera - Ed 619",
+    "comentario": "Excelente",
+    "calificacion": 4.0
+  }
+]

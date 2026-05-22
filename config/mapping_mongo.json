@@ -1,0 +1,44 @@
+{
+  "colecciones": {
+    "libros": {
+      "fuente_tabla": "Biblioteca_Data",
+      "campos": {
+        "id_registro": "id_registro",
+        "titulo": "titulo_libro",
+        "autor": "autor_nombre",
+        "categoria": "categoria_y_descripcion",
+        "editorial": "editorial_info",
+        "fecha_publicacion": "fecha_publicacion"
+      }
+    },
+    "prestamos": {
+      "fuente_tabla": "Prestamos_Crudos",
+      "campos": {
+        "id_prestamo": "id_prestamo",
+        "nombre_usuario": "nombre_usuario",
+        "correo_usuario_hash": "correo_usuario",
+        "libros_prestados": "libros_prestados",
+        "fecha_salida": "fecha_salida",
+        "estado": "estado_prestamo"
+      }
+    },
+    "inventario": {
+      "fuente_tabla": "Inventario_Sedes",
+      "campos": {
+        "sede": "sede_nombre",
+        "ubicacion": "ubicacion_sede",
+        "libro": "libro_asociado",
+        "cantidad": "cantidad_total"
+      }
+    },
+    "reseñas": {
+      "fuente_tabla": "Reseñas_Usuarios",
+      "campos": {
+        "usuario_id": "usuario_id",
+        "libro_titulo": "libro_titulo",
+        "comentario": "comentario",
+        "calificacion": "calificacion"
+      }
+    }
+  }
+}

@@ -1,0 +1,938 @@
+[
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Ficciones - Ed 757",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 951",
+    "cantidad_total": 43.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 797",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Ficciones - Ed 738",
+    "cantidad_total": 37.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 845",
+    "cantidad_total": 23.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 413",
+    "cantidad_total": 49.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Ciudad Y Los Perros - Ed 483",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Ficciones - Ed 419",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Rayuela - Ed 168",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": NaN,
+    "libro_asociado": "Pedro Páramo - Ed 337",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 130",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Cien Años De Soledad - Ed 277",
+    "cantidad_total": 15.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Ciudad Y Los Perros - Ed 726",
+    "cantidad_total": 12.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 704",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Ficciones - Ed 505",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Rayuela - Ed 675",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Ficciones - Ed 609",
+    "cantidad_total": 25.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 51",
+    "cantidad_total": 20.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": NaN,
+    "libro_asociado": "La Ciudad Y Los Perros - Ed 127",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Rayuela - Ed 131",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 858",
+    "cantidad_total": 30.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 325",
+    "cantidad_total": 35.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 431",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 619",
+    "cantidad_total": 50.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Aleph - Ed 586",
+    "cantidad_total": 45.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 971",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Ficciones - Ed 607",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 40",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 891",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Aleph - Ed 476",
+    "cantidad_total": 44.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Cien Años De Soledad - Ed 28",
+    "cantidad_total": 50.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Rayuela - Ed 777",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Ficciones - Ed 359",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 450",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 490",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 840",
+    "cantidad_total": 22.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": NaN,
+    "libro_asociado": "Ficciones - Ed 738",
+    "cantidad_total": 36.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Cien Años De Soledad - Ed 455",
+    "cantidad_total": 1.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Pedro Páramo - Ed 919",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Rayuela - Ed 390",
+    "cantidad_total": 27.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 460",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 448",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Ficciones - Ed 415",
+    "cantidad_total": 1.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Cien Años De Soledad - Ed 644",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Pedro Páramo - Ed 114",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 817",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 898",
+    "cantidad_total": 50.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 707",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Aleph - Ed 494",
+    "cantidad_total": 24.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Aleph - Ed 296",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Ficciones - Ed 682",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Aleph - Ed 247",
+    "cantidad_total": 24.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Cien Años De Soledad - Ed 815",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Rayuela - Ed 111",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 385",
+    "cantidad_total": 17.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Pedro Páramo - Ed 728",
+    "cantidad_total": 12.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Aleph - Ed 201",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Rayuela - Ed 251",
+    "cantidad_total": 37.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Aleph - Ed 772",
+    "cantidad_total": 7.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 521",
+    "cantidad_total": 43.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Aleph - Ed 519",
+    "cantidad_total": 48.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 161",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Rayuela - Ed 246",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Pedro Páramo - Ed 496",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 626",
+    "cantidad_total": 24.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Cien Años De Soledad - Ed 173",
+    "cantidad_total": 28.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 21",
+    "cantidad_total": 17.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 397",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Ficciones - Ed 935",
+    "cantidad_total": 29.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Rayuela - Ed 750",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Ciudad Y Los Perros - Ed 70",
+    "cantidad_total": 37.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Rayuela - Ed 172",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 638",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Pedro Páramo - Ed 881",
+    "cantidad_total": 28.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 149",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Pedro Páramo - Ed 338",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 60",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 471",
+    "cantidad_total": 18.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 450",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 130",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 242",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Ficciones - Ed 106",
+    "cantidad_total": 31.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 967",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Aleph - Ed 785",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 902",
+    "cantidad_total": 45.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 47",
+    "cantidad_total": 36.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Ciudad Y Los Perros - Ed 555",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Cien Años De Soledad - Ed 373",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Ciudad Y Los Perros - Ed 181",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Rayuela - Ed 675",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Pedro Páramo - Ed 743",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Ficciones - Ed 580",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 723",
+    "cantidad_total": 37.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 628",
+    "cantidad_total": 17.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Rayuela - Ed 795",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 826",
+    "cantidad_total": 50.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Aleph - Ed 223",
+    "cantidad_total": 22.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 210",
+    "cantidad_total": 13.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 812",
+    "cantidad_total": 32.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Cien Años De Soledad - Ed 373",
+    "cantidad_total": 21.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 355",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 396",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Cien Años De Soledad - Ed 769",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 584",
+    "cantidad_total": 9.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 826",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 727",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Ficciones - Ed 499",
+    "cantidad_total": 28.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Cien Años De Soledad - Ed 233",
+    "cantidad_total": 39.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Aleph - Ed 156",
+    "cantidad_total": 49.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Ciudad Y Los Perros - Ed 116",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 6",
+    "cantidad_total": 24.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 115",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 154",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Ficciones - Ed 800",
+    "cantidad_total": 35.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 460",
+    "cantidad_total": 1.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Ciudad Y Los Perros - Ed 810",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 680",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Aleph - Ed 824",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Cien Años De Soledad - Ed 430",
+    "cantidad_total": 23.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Ficciones - Ed 542",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 928",
+    "cantidad_total": 33.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 1000",
+    "cantidad_total": 34.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 635",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 179",
+    "cantidad_total": 43.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Ficciones - Ed 537",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Pedro Páramo - Ed 926",
+    "cantidad_total": 18.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 250",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Rayuela - Ed 107",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Aleph - Ed 296",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Rayuela - Ed 671",
+    "cantidad_total": 39.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Cien Años De Soledad - Ed 989",
+    "cantidad_total": 33.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 592",
+    "cantidad_total": 28.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Pedro Páramo - Ed 365",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Don Quijote De La Mancha - Ed 902",
+    "cantidad_total": 2.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Ciudad Y Los Perros - Ed 610",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Ciudad Y Los Perros - Ed 369",
+    "cantidad_total": 46.0
+  },
+  {
+    "sede_nombre": NaN,
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Ficciones - Ed 567",
+    "cantidad_total": 23.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "La Ciudad Y Los Perros - Ed 965",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 420",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 183",
+    "cantidad_total": 43.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Pedro Páramo - Ed 90",
+    "cantidad_total": 33.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 514",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Rayuela - Ed 411",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "La Casa De Los Espíritus - Ed 280",
+    "cantidad_total": 6.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Ficciones - Ed 96",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Pedro Páramo - Ed 774",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 344",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "El Amor En Los Tiempos Del Cólera - Ed 473",
+    "cantidad_total": 8.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 950",
+    "cantidad_total": 50.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Cien Años De Soledad - Ed 645",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 822",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Norte",
+    "ubicacion_sede": "Avenida Poblado 12-05",
+    "libro_asociado": "Crónica De Una Muerte Anunciada - Ed 210",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Aleph - Ed 180",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Ficciones - Ed 682",
+    "cantidad_total": 34.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "Ficciones - Ed 14",
+    "cantidad_total": 10.0
+  },
+  {
+    "sede_nombre": "Sede Central",
+    "ubicacion_sede": "Calle 10 #45-20",
+    "libro_asociado": "El Aleph - Ed 710",
+    "cantidad_total": 16.0
+  }
+]

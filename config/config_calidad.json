@@ -1,0 +1,26 @@
+{
+  "reglas": {
+    "Reseñas_Usuarios": [
+      {"campo": "calificacion", "tipo": "numeric", "min": 1, "max": 5},
+      {"campo": "comentario", "prohibido": ["nulo", "sin comentario"]}
+    ],
+    "Prestamos_Crudos": [
+      {"campo": "correo_usuario", "pattern": "^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+$"}
+    ],
+    "Inventario_Sedes": [
+      {"campo": "cantidad_total", "tipo": "numeric", "min": 0}
+    ],
+    "Biblioteca_Data": [
+      {"campo": "titulo_libro", "required": true},
+      {"campo": "autor_nombre", "required": true}
+    ]
+  },
+  "fuzzy_matching": {
+    "umbral_similitud": 85,
+    "campos_comparacion": ["titulo_libro", "autor_nombre"]
+  },
+  "data_masking": {
+    "campos_a_enmascarar": ["correo_usuario"],
+    "metodo": "sha256"
+  }
+}
